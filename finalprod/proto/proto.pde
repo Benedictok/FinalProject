@@ -1,4 +1,4 @@
-squares s;
+cards s;
 Rules r;
 
 void setup() {
@@ -12,11 +12,11 @@ void draw(){
  
   background(51);
   r.Rules();
-  s.drawCards();
+  //s.drawCards();
+  
   
 
  
  
-  //s.drawsquares();
-
+ 
 }

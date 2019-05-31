@@ -4,7 +4,7 @@ class cards{
   int cardsY = 0;
   int faceValue = 0;
   PImage img; 
-  String [] cardName = {"image.png","hello_PNG31.png"};
+  String [] cardName = {"image.png",};
 
    cards(int x,int y, int fv){
     cardsX = x;

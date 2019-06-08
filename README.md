@@ -7,6 +7,8 @@ I decide to make a memory card game for my project. It is a simple game and not 
 
 ### Difficulties or opportunities you encountered along the way.
 
+Starting the project, I had a difficult time figuring out how to start it but im hopeful to choose a game that i want to make. With the help of processing tutorials by Daniel Shiffman and his youtube videos with the examples in the processing website I was able to ease for a little bit my rollercaster ride with this project. Of course, there was a time that I wanna give up but I thought to myslef that this is my last project in APCS so I want to to my best. 
+
 The toughest part of my project was making the funtion that make the card disappear if they match. That was quite challenging to do because they would have to have the same location to match so i have to create an if statement. 
 
 ### Most interesting piece of your code and explanation for what it does.
